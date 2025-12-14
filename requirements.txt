@@ -1,0 +1,7 @@
+# No external dependencies required (uses Python standard library only)
+# project uses only Python’s standard library:
+# struct
+# csv
+# zlib
+# argparse
+# os, sys
